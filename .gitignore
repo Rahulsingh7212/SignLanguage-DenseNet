@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Dataset (too large for GitHub)
+datasets/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Models (large files)
+models/*.pth
+models/*.pt
