@@ -19,3 +19,6 @@ Thumbs.db
 # Models (large files)
 models/*.pth
 models/*.pt
+
+# Add to .gitignore
+processed_data/
