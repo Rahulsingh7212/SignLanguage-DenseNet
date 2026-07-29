@@ -3,7 +3,7 @@ pandas==2.2.1
 matplotlib==3.8.3
 seaborn==0.13.2
 
-opencv-python==4.9.0.80
+opencv-python==4.11.0.86
 Pillow==10.2.0
 
 scikit-learn==1.4.2
@@ -13,17 +13,20 @@ tifffile==2024.2.12
 
 albumentations==1.4.3
 
-torch==2.2.1
-torchvision==0.17.1
-
 tensorflow==2.15.0
 tf-keras==2.15.1
 
 mediapipe==0.10.14
 
+torch==2.2.1
+torchvision==0.17.1
+
 jupyter==1.0.0
 ipykernel==6.29.3
-kaggle==1.6.6
 
+kaggle==1.6.6
 tqdm==4.66.2
+
+visualkeras==0.1.4
+
 PyYAML==6.0.1
